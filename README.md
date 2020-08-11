@@ -42,7 +42,7 @@ The intended application of the project is for use in applying visibility weight
 
 | Model                     | Accuracy     |
 |:-------------------------:|:------------:|
-| Logistic Regression       | 91.34%       |      
+| Logistic Regression       | 92.48%       |      
 | LSTM                      | 90.28%       |
 
 
